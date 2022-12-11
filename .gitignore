@@ -1,0 +1,5 @@
+node_modules/
+app-back-sin-handlebar.js
+app-old-http.js
+**/public/bak/
+.env
